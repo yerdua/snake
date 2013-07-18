@@ -1,0 +1,27 @@
+body {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+#container {
+  border: #FFFFFF solid 2px;
+  display: inline-block;
+}
+
+.row {
+  height: 10px;
+}
+
+.row div {
+  width: 10px;
+  display: inline-block;
+  height: 100%;
+}
+
+.apple {
+  background-color: #ff0000;
+}
+
+.snake {
+  background-color: #ae2222;
+}
